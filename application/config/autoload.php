@@ -9,7 +9,7 @@ $autoload['libraries'] = array();
 
 $autoload['drivers'] = array();
 
-
+// for base_url
 $autoload['helper'] = array('url');
 
 $autoload['config'] = array();
